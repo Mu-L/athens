@@ -15,7 +15,7 @@ require (
 	github.com/fatih/color v1.13.0
 	github.com/go-redis/redis/v7 v7.4.1
 	github.com/go-sql-driver/mysql v1.6.0
-	github.com/gobuffalo/envy v1.7.0
+	github.com/gobuffalo/envy v1.10.1
 	github.com/gobuffalo/httptest v1.0.4
 	github.com/google/go-cmp v0.5.7
 	github.com/google/uuid v1.1.2
@@ -69,7 +69,7 @@ require (
 	github.com/gorilla/context v1.1.1 // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/jmespath/go-jmespath v0.3.0 // indirect
-	github.com/joho/godotenv v1.3.0 // indirect
+	github.com/joho/godotenv v1.4.0 // indirect
 	github.com/json-iterator/go v1.1.11 // indirect
 	github.com/klauspost/compress v1.9.5 // indirect
 	github.com/klauspost/cpuid v1.2.3 // indirect
@@ -92,7 +92,7 @@ require (
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.26.0 // indirect
 	github.com/prometheus/procfs v0.6.0 // indirect
-	github.com/rogpeppe/go-internal v1.3.0 // indirect
+	github.com/rogpeppe/go-internal v1.8.0 // indirect
 	github.com/tinylib/msgp v1.0.2 // indirect
 	github.com/uber/jaeger-client-go v2.25.0+incompatible // indirect
 	github.com/xdg-go/pbkdf2 v1.0.0 // indirect
